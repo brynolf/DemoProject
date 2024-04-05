@@ -2,4 +2,12 @@ a
 b
 d
 g
+<<<<<<< Updated upstream
 i
+=======
+i'
+'
+
+
+ss
+>>>>>>> Stashed changes
